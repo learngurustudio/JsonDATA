@@ -1,4 +1,4 @@
-    [
+   [
         {
             "name": "शेरेको बुढी",
             "description": "डाक्टर साहाब
@@ -11,38 +11,33 @@
 शेरेको बुढी : एक महिना को लागि म माईत जादैछु!!",
             "Rating": "8.50",
             "episode": 1,
-             "categorie":"Animation | Drama | Adventure",
+             "categorie":"नयाँ जोक्स",
             "studio":"Toei Animation",
             "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
         },
+
          {
             "name": "शेरे र हर्के class 8 मा पढ्दा",
             "description": "शेरे र हर्के class 8 मा पढ्दा रहेछन
 भर्खर परिक्षा सुरु भयेको पनि 2/3 दिन भयो
-
 शेरे: भोलिको परिक्षा चाहि राम्रो संग दिनु पर्छ
 आज रातभरि पढौ है
-
 हर्के: हुन्छ
-
 पढ्दा पढ्दै समय बितेको थाहै भयेनछ ।
-
 हर्के :ओई शेरे कति बज्यो
 .
-
 शेरे फुत्त बाहिर गयेर पल्लो घरको छानामा ढुङ्गा हान्यो
-
 पल्लो घरको आन्टि सराप्दै बाहिर निस्किन
 तलाई मर्न न सकेको र्मुकुटा फटा बदमाश रातको 3
 बजि सक्यो अझै सुतेको छैनस ।
-
 शेरे: थाहा पाईस हर्के कति बजेछ ।",
-            "Rating": "8.50",
+            "Rating": "7.50",
             "episode": 2,
-             "categorie":"Animation | Drama | Adventure",
+             "categorie": "नयाँ जोक्स",
             "studio":"Toei Animation",
             "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
         },
+
          {
             "name": "शेरेको बुढी",
             "description": "महिलाहरु चढेको बस पल्टिएछ । सबै महिला मरेछन ।
@@ -54,22 +49,421 @@
 .
 .
 किनकी त्यो बसमा शेरेको बुढी चढेकी रहिनछ",
-            "Rating": "8.50",
+            "Rating": "8.0",
             "episode": 3,
-             "categorie":"Animation | Drama | Adventure",
+             "categorie":"नयाँ जोक्स",
             "studio":"Toei Animation",
             "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
         },
+
         {
-            "name": "शेरेले र एउटी केटीी",
+            "name": "शेरेले र एउटी केटी",
             "description": "शेरेले एउटी केटीलाई I Love You भनेछ
-
 केटीले एक झापड हानेर भनी- के भनिस् ?
-
 शेरे(रुँदै): जब सुन्दै सुनिनस् भने झापड किन हानिस् ?",
-            "Rating": "8.50",
+            "Rating": "9.00",
             "episode": 4,
-             "categorie":"Animation | Drama | Adventure",
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+
+
+
+ {
+            "name": "शेरेकी बुढिले बच्चा पाएपछि.",
+            "description": "शेरेकी बुढिले बच्चा पाएछिन बच्चा छोरी पाएसी । शेरेले बुढिलाई भन्यो : . . . 
+शेरे : बुढि यो छोरी को ठाउँमा छोरा भएको भए कति राम्रो हुनएथ्यो हगि ? . . . . . . . . . . . . .
+ हुन्छ शाला राम्रो खुब नापेर तेरो आश गरेको भा यो छोरी पनि हुने थिएन ।",
+            "Rating": "6.00",
+            "episode": 5,
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+ {
+            "name": "शेरेले र एउटी केटीी",
+            "description": "Girl to शेरे: त्यो कुन चिज हो जो गाईसँग चार ओटा हुन्छ म संग दुइ ओटा मात्र छ ..? शेरे : खुट्टा, Girl : त्यो के हो जो तिम्रो पेन्टमा छ तर मेरो पेन्टमा छैन ?. शेरे: पैसा. Girl : त्यो के हो जो दिनमा garnu सट्टा मान्छेहरु राति ओछ्यानमा गर्छन ? शेरे: निन्द्रा पुरा गर्छन. girl : त्यो के हो जुन पहिलो चोटी भएर होला दुखेपछि दुखी को आवाज दिन्छन ..आह! आह !गरेर ? शेरे:कान छेडेको बेला .... MORAL : सबैले शेरेको जस्तै सकारात्मक सोच राख्नु पर्छ l",
+            "Rating": "8.00",
+            "episode": 6,
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+ {
+            "name": "शेरे र हर्के class 8 मा पढ्दा रहेछन",
+            "description": "भर्खर परिक्षा सुरु भयेको पनि 2/3 दिन भयो
+शेरे: भोलिको परिक्षा चाहि राम्रो संग दिनु पर्छ
+आज रातभरि पढौ है
+हर्के: हुन्छ
+पढ्दा पढ्दै समय बितेको थाहै भयेनछ ।
+हर्के :ओई शेरे कति बज्यो.
+शेरे फुत्त बाहिर गयेर पल्लो घरको छानामा ढुङ्गा हान्यो
+पल्लो घरको आन्टि सराप्दै बाहिर निस्किन
+तलाई मर्न न सकेको र्मुकुटा फटा बदमाश रातको 3
+बजि सक्यो अझै सुतेको छैनस।
+शेरे: थाहा पाईस हर्के कति बजेछ ।",
+            "Rating": "10.00",
+            "episode": 7,
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+ {
+            "name": "गफाडि शेरे,छेरे र हेरे",
+            "description": "गफाडि शेरे,छेरे र हेरे एकदिन कस्को बाउ अग्लो भन्ने मा गफ दिदै थे ।।
+छेरे :- यार मेरो बाउत हिमाल भन्दा अग्लो छ ।
+हेरे :- आछि तेरो बाउ तेति मात्र मेरो बाउले त आकाश को बादल पन्साउँछ ।
+( अब सेरे लाई आपत परेछ आकास भन्दा अग्लो अरु चिज नभएको ले सेरे ले दिमाग लाउँदै हेरे लाई भनेछ......)
+शेरे :- ओई तेरो बाउ ले वादल पन्साउदा गिलो गिलो भेटेको थियो ???
+हेरे :- हो हो भेटेको थियो ।। :)
+शेरे :- हो त्यो मेरो बाउको g**da हो !
+(अब भन्नु सेरेको बाउ कति अग्लो हाहाहा)",
+            "Rating": "8.00",
+            "episode": 8,
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+ {
+            "name": "फोनमा शेरे  र मुकुन्दे",
+            "description": "फोन मा
+शेरे :हैन ए मुकुन्दे सबै भन्दा बढि नशा के मा छ था छ?;-)
+मुकुन्दे: थाहा छ नी!
+शेरे: के मा छ लु भन्त?:-P
+मुकुन्दे: रक्सि मा।
+शेरे: हैन मुला!
+मुकुन्दे: ऊसो भए भाङ मा"
+शेरे: हैन"
+मुकुन्दे: ऊसो भए केटी मा!
+शेरे: हैन मुला"!
+मुकुन्दे: त्यसो भए चै माया मा!"
+शेरे: हे हैन-"
+मुकुन्दे: मुला ; यो भन्दा नि मिलेन भन्छ, ऊ भन्दा नि मिलेन भन्छ"लु तै भन्त के मा छ??
+शेरे: सबै भन्दा बढि नशा किताब मा छ नि मुला* शाला पल्टायो कि झुम्म निन्द्रा लाग्छ यार",
+            "Rating": "8.00",
+            "episode": 9,
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+ {
+            "name": "शेरे ले एउटा हस्पिटल कि नर्स सङ बिबाह गर्यो !!!",
+            "description": "शेरे ले एउटा हस्पिटल कि नर्स सङ बिबाह गर्यो !!!
+भोलि पल्ट,
+मैले भने > हैन हौ शेरे तेरो हिजो सुहागरात चै कसरी बित्यो नि ?
+
+शेरे हल्का बिच्किदै ....
+
+लास्तै खत्तम तरिका ले यार
+जब सम्म सिस्टर भनेर बोलाइन मैले तब सम्म त कुरै नै गरिन नि म सङ्ग",
+            "Rating": "8.08",
+            "episode": 10,
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+ {
+            "name": "बिर्खे र शेरे एकदिन ठुलो पसल चोर्न जादा.",
+            "description": "बिर्खे र शेरे एकदिन ठुलो पसल चोर्न
+गएछन् । पसल बाट एक एक झोला सामान
+हतारै प्याक गरेर घर पुगे ।
+.
+.
+घर पुगे पछि ब्याग खोलेछन बिर्खेले
+चाहि एक झोलै पैसा खाँदेको रहेछ तर
+शेरेको झोलामा चाहि झोले
+भरी खुकुरी चुरोट मात्र रहेछ तब बिर्खे
+रिसाउदै शेरे लाई गालि गर्छ
+.
+.
+बिर्खे :- ओ शेरे तँ
+कस्तो लाटा तेरो बुद्यी यार हामिले
+त्यति दु:ख गरेर चोर्न गयौँ मैले
+एत्रो पैसा ल्याउँदा तँईलेचाहि मात्र
+चुरोट ?
+शेरेले चोरोटमा लेखेको देखाउँदै
+शेरे :- तँ अहिले बुझ्दैनस
+यो भनेको साहसीको एक मात्र
+चाहाना",
+            "Rating": "9.00",
+            "episode": 11,
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+ {
+            "name": "Shere ek din Lift maa jaadai गर्दा",
+            "description": "Shere ek din Lift maa jaadai thiyo. Uu sangai aru 2 jana keti pani thii. Keti haru aafno perfume ko kura gardai thiye.
+Euti le vani:- Mero ta Cobra perfume Rs 7000.
+Arki le vani:- mero ta jhan jasmine perfume Rs 8000.
+Teti nai bela lift maa kehi ganauna thaalyo. Dubai keti harule mask lagaaye. Ani shere le vanyo:- mero ta mula, jamma 5 rupaiya kilo.",
+            "Rating": "7.00",
+            "episode": 12,
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+ {
+            "name": "सेरे 45 बर्षको उमेरमा केटी माग्न गएपछि",
+            "description": "सेरे 45 बर्षको उमेरमा केटी माग्न
+गएछ।
+त्यो पनि बिर्खे चाहीं लमी ( बिहे
+को कुरो चलाउने मूख्य मान्छे)
+सेरे र बिर्खे जब केटी को घर पुगे
+बिर्खे- (सेरेलाई देखाउंदै) ल हेर्नुहोस
+हजुर केटा उही हो।
+सेरेलाई देख्दै केटी की आमा बेहोस ।
+.
+.
+.
+होस आए पछि
+.
+बिर्खे- हजुर लाई के भयो? सन्चो छैन
+की कसो??
+केटी की आमा- यो मान्छे त 22 बर्ष
+पहिले मलाई नी माग्न आएको थियो।",
+            "Rating": "8.00",
+            "episode": 13,
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+ {
+            "name": "शिक्षक र शेरेको छोरो",
+            "description": "शिक्षक: गृहकार्य किन नगरेको ?
+शेरेको छोरो : बिजुली थिएन ।
+शिक्षक: मैनबत्ति बाल्नुपर्दैन ?
+शेरेको छोरो: सलाई थिएन ।
+शिक्षक: किन ?
+शेरेको छोरो: पुजा कोठामा राखेको थिएँ
+।
+शिक्षक: अनि ल्याए भैहाल्थ्यो नि !
+शेरेको छोरो: नुहाएको थिईन ।
+शिक्षक: किन ननुहाएको त ?
+शेरेको छोरो: पानी थिएन ।
+शिक्षक: अरे यार ! किन पानी थिएन त
+नि ?
+शेरेको छोरो: मोटर चलेको थिएन ।
+शिक्षक: के भएर मोटर चलेन ?
+शेरेको छोरो: तेरो खप्पर !!
+साला गजनी को सन्तान
+अघि बिजुली थिएन भनेको हैन
+शेरेको छोरो Rocks शिक्षक Sucks",
+            "Rating": "6.50",
+            "episode": 14,
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+ {
+            "name": "शेरेले एकदिन मौका पारेर एउटी केटीलाई पर्पोज गर्दा",
+            "description": "शेरेले एकदिन मौका पारेर एउटी केटीलाई पर्पोज गर्यो ।
+शेरे : म तिमीलाई पहिलै देखि मन पराउँछु । के तिमी मलाई मन पराउँछौं ? के तिमी मसँग लब गर्छौं ?
+
+तब केटीले लजाए जस्तो गर्दै जवाफ दिइ : हुन्छ । म पनि तिमीलाई मन पराउँछु ।
+
+तर त्यो सुन्ने बित्तिकै शेरे एक्कासी केटीलाई छोडेर घरतिर कुद्न थाल्यो ।
+
+केटीले कराउँदै भनि : कहाँ दगुरेको ?
+
+शेरेले पछाडी हेर्दै दगुर्दै भन्यो : फेसबुकमा in relationship स्टाटस अपडेट गर्न",
+            "Rating": "9.00",
+            "episode": 15,
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+ {
+            "name": "एक पेक रक्सी  र शेरेलको बुढि",
+            "description": "शेरेले एकदिन बुढिलाई बोलायो ।
+एक पेक रक्सी बनायो र बुढिलाई यो पिइ भन्यो ।
+..
+बुढिले अलिकति मुखमा हालि र मुख
+बिगार्दै भनि, ‘छि छि के हो यस्तो । कस्तो नमिठो ।’
+..
+तब शेरेले भन्यो, ‘देखिस् ।
+तेरो बुढोले कति न मिठो मिठो खार आउँछ भन्ने
+सोचेको थिस् नि ।
+कम गाह्रो छ हामीलाई ..",
+            "Rating": "8.50",
+            "episode": 16,
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+ {
+            "name": "अमेरिकाबाट गाऊँमा हर्केलाइ फोनमा फुर्ति लाऊँदै शेरे",
+            "description": "अमेरिकाबाट गाऊँमा हर्केलाइ फोनमा फुर्ति लाऊँदै शेरे
+शेरे: ओबामालाइ चिन्छस?..
+हर्के: चिन्दिन
+शेरे: अमेरिका आए पो चिन्थिस, एन्जेलिना जोलीलाइ नि?.
+हर्के: अहँ चिन्दिन
+शेरे: अंग्रेजी फिल्म हेरे पो चिन्थिस, रिहानालाइ नि?..
+हर्के: चिन्दिन
+शेरे: अंग्रेजी गीत सुने पो चिन्थिस, लन्ठु शेरेका कुरा सुनेर हर्के झन्कींदै भन्यो ‘बिर्खेलाई चिन्छस?..
+शेरे: अहँ चिन्दिन यार
+हर्के: तेरै स्वास्नीको boy friend हो, कहिल्यै घर बसे पो चिन्थिस..",
+            "Rating": "7.80",
+            "episode": 17,
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+ {
+            "name": "सेरे आतिदै हस्पिटमा पुगेर",
+            "description": "सेरे आतिदै हस्पिटमा पुगेर
+सेरे- डाक्टर साब घर गएर जांचेको कति फिस लाग्छ?
+डाक्टर- एक छिन सोचेर 200रुपैयां
+सेरे- ल छिटो जाउं डाक्टर साब
+डाक्टर ले बाईक निकाल्यो र सेरेलाई पछाडी राखेर कुदायो। घर पुगेपछि
+डाक्टर - खै काहां छ बिरामी?
+सेरे- बिरामी सिरामी केही हैन साला ट्याक्सी ड्राईभर 500 रुपैयां माग्दैथ्यो। यी यो लिनुस् 200.",
+            "Rating": "9.00",
+            "episode": 18,
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+ {
+            "name": "बाबु यस पाली को exam मा ८८ % भन्दा माथि ल्याउनुपर्छ ",
+            "description": "बाउ : बाबु यस पाली को exam मा ८८ % भन्दा माथि ल्याउनुपर्छ .
+शेरे : हैन मैले १००% ल्याउछु, बा
+बाउ : मजाक नगर्न, छोरा ,
+:
+:
+:
+शेरे : सुरु कसले गरेको थियो...मजाक .......",
+            "Rating": "7.00",
+            "episode": 19,
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+ {
+            "name": "शेरेले र "शेरेको बुढी ",
+            "description": "wife on Valentine's day: vana na ma timlaai k gift diu?
+Shere: Sadhai malaai Maya gara...namra vaera
+bola‚ malaai nahepa‚ ani malaai sadhai respect gara!
+Gift chaaidaina..
+Wife: Naai ma ta gift nai dinxu!",
+            "Rating": "7.60",
+            "episode": 20,
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+ {
+            "name": " एकदिन हर्के घर ढिला पुग्यो",
+            "description": "उसको बाउले किन ढिला आइस भनेर सोध्दा हर्केले साथीको घर मा थिए भन्यो
+उसको बाउले हर्केकै अगाडी उसको१०जना साथीलाई फोन गर्यो
+पहिलो ४ जना : uncle यहि छ मा संगै छ
+अर्को २ जना : uncle , भर्खर निस्क्यो आउदै होला
+अर्को ३ जना : येही छ uncle पढीराखेको छ फोन दिउ
+last को १ जना : भन्नुस daddy बोल्दै छु",
+            "Rating": "7.90",
+            "episode": 21,
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+ {
+            "name": "शिब र भुवन हस्पिटलमा रुदै बसेको देखेर अचम्म मान्दै ",
+            "description": "राजेश दाई : ओए ...शिबे, किन रोको यार त...?
+शिब : Blood Test गर्न भनेर मेरो औला नै काटी दियो यार ..!!
+राजेश दाई: अनि भुवने, त चाहीँ किन रोईराको ... ?
+भूवन : मेरो त Urine Test गर्न पर्छ रे ...उ हु उ हु",
+            "Rating": "8.70",
+            "episode": 22,
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+ {
+            "name": "शेरे ट्राफिक सिग्नलमा बाइक रोकेर",
+            "description": "शेरे ट्राफिक सिग्नलमा बाइक रोकेर
+बसेको थियो ।
+उसैबेला उसको टाउको चिलाएछ । शेरेले हेल्मेट
+बाहिरबाट टाउको कन्याएछ ।
+एउटी स्कुटीमा आएकि केटिले अचम्म
+लागेर भनिछे: तिमी पागल त भएनौ ? हेल्मेट खोलेर
+पो टाउको कन्याउनु पर्छ राजा ।
+.
+.
+.
+शेरे: अलि बिचार गरेर बोल मैया रानी  ।
+अघि तिम्रो चाक चिलाउँदा पाइन्ट नै खोलेर
+कन्याएकि थियौ र?????????",
+            "Rating": "10.00",
+            "episode": 23,
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+ {
+            "name": "शेरेले मायालुलाई SMS गर्दा ",
+            "description": "शेरेले एउटी केटीलाई धेरै नै माया गर्थ्यो तर भन्न डराएरको थियो र केही भन्न सकेको थिएन ।
+
+तर.....
+1 दिन उसले म्यासेजमा I love u लेखेर पठाउने निर्णय गरेछ ।
+
+उसले राती ‘I LOVE U’ लेखेर केटीको नंबरमा म्यासेज पठाएछ ।
+
+केही समय पछि शेरेको मोबाइलमा म्यासेजको रिङटोन बजेछ तर उसले भोलीपल्ट बिहान नुहाइधुवाई गरेर मन्दिर गएर मात्र म्यासेज पढ्ने निर्णय गरेछ र सुतेरात भरि केटीकै सपना देखेछ ।
+
+बिहान उठेर नुहाएछ र मन्दिर गएछ । अनि मन्दिर गएर आएर म्यासेज पढेको त यस्तो लेखेको रैछ
+.
+.
++9771414 Your
+Message Not delivered.
+Account balance: 0.17 Rupees.
+Please recharge in time.
+Thank you
+
+(कठै बीचरा सेरे ठाउँ को ठाउँ बेहोस )",
+            "Rating": "8.55",
+            "episode": 24,
+             "categorie":"नयाँ जोक्स",
+            "studio":"Toei Animation",
+            "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
+        },
+
+ {
+            "name": "शेरेको तपस्याको फल",
+            "description": "शेरेले धेरै समय देखि भगवानको तपस्या गर्दै रैछ ।
+ एकदिन अचानक भगवान प्रकट भयछन अनि सोधेछन ।
+भगवान : त के चाहान्छस सेरे माग…?
+.
+.
+शेरे: एउटा जागिर, ठुलो गाडि र त्यसमा धेरै केटि नै केटि….!
+.
+.भगवान: तथास्तु…!
+.
+.
+बिचरा शेरे आज एउटा Girl’s school मा बस ड्राइभर छ!",
+            "Rating": "9.95",
+            "episode": 25,
+             "categorie":"नयाँ जोक्स",
             "studio":"Toei Animation",
             "img": "https://raw.githubusercontent.com/learngurustudio/JsonDATA/master/icon-funny.png"
         }
